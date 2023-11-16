@@ -4,6 +4,10 @@
      "bundleId": "com.createchsol.AppAlertExample",
      "title": "App Alert",
      "text": "Warning: There is a bug in the application and I am working on it...",
-     "confirmLabel": "OK"
+     "confirmLabel": "OK",
+      "link": {
+         "title": "More information",
+         "url": "https://www.createchsol.com"
+      }
    }
 ]
