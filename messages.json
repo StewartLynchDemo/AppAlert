@@ -6,7 +6,6 @@
      "text":"Warning:  There is a bug in the application and I am working on it.",
      "confirmLabel":"OK",
      "osVersions": ["17.2"],
-     "appVersions": ["1.0"],
      "link":{
         "title":"More information",
         "url":"https://www.createchsol.com/BugReport/"
