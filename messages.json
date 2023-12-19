@@ -1,14 +1,9 @@
 [
-  {
-     "id":3,
-     "bundleId":"com.createchsol.AppAlertExample",
-     "title":"App Alert",
-     "text":"Warning:  There is a bug in the application and I am working on it.",
-     "confirmLabel":"OK",
-     "osVersions": ["17.2"],
-     "link":{
-        "title":"More information",
-        "url":"https://www.createchsol.com/BugReport/"
-     }
-  }
+   {
+      "id": 1,
+      "bundleId": "com.createchsol.AppAlertExample",
+      "title": "App Alert",
+      "text": "Warning:  There is a bug in the application and I am working on it.",
+      "confirmLabel" : "OK"
+   }
 ]
