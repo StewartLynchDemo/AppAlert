@@ -1,9 +1,12 @@
-[
-   {
-      "id": 1,
-      "bundleId": "com.createchsol.AppAlertExample",
-      "title": "App Alert",
-      "text": "Warning:  There is a bug in the application and I am working on it.",
-      "confirmLabel" : "OK"
+{
+   "id":2,
+   "bundleId":"com.createchsol.AppAlertExample",
+   "title":"App Alert",
+   "text":"Warning: Apple has introduced a bug that is affecting those of you who are using iOS 17.2.  I am working on a fix",
+   "confirmLabel":"OK",
+   "osVersions": ["17.2"],
+   "link":{
+      "title":"More information",
+      "url":"https://www.createchsol.com/BugReport/"
    }
-]
+}
