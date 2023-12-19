@@ -1,12 +1,15 @@
-{
-   "id":2,
-   "bundleId":"com.createchsol.AppAlertExample",
-   "title":"App Alert",
-   "text":"Warning: Apple has introduced a bug that is affecting those of you who are using iOS 17.2.  I am working on a fix",
-   "confirmLabel":"OK",
-   "osVersions": ["17.2"],
-   "link":{
-      "title":"More information",
-      "url":"https://www.createchsol.com/BugReport/"
-   }
-}
+[
+  {
+     "id":2,
+     "bundleId":"com.createchsol.AppAlertExample",
+     "title":"App Alert",
+     "text":"Warning:  There is a bug in the application and I am working on it.",
+     "confirmLabel":"OK",
+     "osVersions": ["17.0.1", "17.2"],
+     "appVersions": ["1.0"],
+     "link":{
+        "title":"More information",
+        "url":"https://www.createchsol.com/BugReport/"
+     }
+  }
+]
