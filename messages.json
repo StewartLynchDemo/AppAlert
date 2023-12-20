@@ -1,11 +1,14 @@
 [
   {
-    "id": 3,
-    "isModal": true,
-    "imageName": "HappyNY.png",
-    "bundleId": "com.createchsol.AppAlertExample",
-    "title": "All The Best",
-    "text": "Wishing you a Happy New Year",
-    "confirmLabel": "OK"
+     "id":4,
+     "bundleId":"com.createchsol.AppAlertExample",
+     "title":"App Alert",
+     "text":"Warning:  There is a bug in the application and I am working on it.",
+     "confirmLabel":"OK",
+     "osVersions": ["17.2"],
+     "link":{
+        "title":"More information",
+        "url":"https://www.createchsol.com/BugReport/"
+     }
   }
 ]
